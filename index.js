@@ -5,8 +5,8 @@ import csv from "csv-parser";
 const transporter = nodemailer.createTransport({
   service: "gmail",
   auth: {
-    user: "yrfeaan@gmail.com",
-    pass: "",
+    user: "codemeadmissions@gmail.com",
+    pass: "iako cupp yccl xntx",
   },
 });
 
@@ -123,7 +123,7 @@ fs.createReadStream("students.csv")
         
         </div>
         `;
-    } else if (badge === "Pro-Perfomer") {
+    } else if (badge === "Pro-Performer") {
       msgBody = `
         <div style="font-family: Arial, sans-serif; line-height: 1.6;">
         
@@ -229,15 +229,16 @@ fs.createReadStream("students.csv")
     }
 
     const mailOptions = {
-      from: "Intrsuctor irfanshalu3@gmail.com",
+      from: "codemeadmissions@gmail.com",
       to: email,
+
       html: msgBody,
       subject: "Review Perfomance Feedback",
     };
 
     transporter.sendMail(mailOptions, (err, info) => {
       if (err) {
-        console.log(`Error sending mail to ${Email}`);
+        console.log(`Error sending mail to ${email}`);
         console.log(err);
       } else {
         console.log(`Email send to ${info.response}`);
