@@ -123,7 +123,7 @@ fs.createReadStream("students.csv")
         
         </div>
         `;
-    } else if (badge === "Pro-Perfomer") {
+    } else if (badge === "Pro-Performer") {
       msgBody = `
         <div style="font-family: Arial, sans-serif; line-height: 1.6;">
         
@@ -231,6 +231,7 @@ fs.createReadStream("students.csv")
     const mailOptions = {
       from: "Instructor jouhar.official@gmail.com",
       to: email,
+
       html: msgBody,
       text: "",
       subject: "Review Performance Feedback",
