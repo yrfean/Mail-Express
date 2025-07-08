@@ -12,6 +12,7 @@
   "type": "module",
   "dependencies": {
     "csv-parser": "^3.2.0",
+    "dotenv": "^17.1.0",
     "fs": "^0.0.1-security",
     "nodemailer": "^7.0.4"
   }
