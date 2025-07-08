@@ -5,8 +5,7 @@ import csv from "csv-parser";
 const transporter = nodemailer.createTransport({
   service: "gmail",
   auth: {
-    user: "jouhar.official@gmail.com",
-    pass: "omol xbxl ibuw aayv",
+    
   },
 });
 

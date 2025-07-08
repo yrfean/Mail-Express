@@ -1,6 +1,13 @@
 ID,Email,Name,Topics to cover,Technical Viva (15),Machine Task (15),Communication (10),Discipline (5),Attendance (5),Total,Badge
-CB#36-18,aryaappunni2002@gmail.com,Ariya,"persona,Onboarding Screen,ux specific,Laws",11,10,8,4,5,38,Pro-Performer
-CB#36-19,shhivvaa@gmail.com,Shiva Das,"user journey,Design thinking,Laws",12,11,8,4,5,40,Pro-Performer
-CB#36-20,kavyamp003@gmail.com,Kaviya,"user journey,Laws",13,9,8,4,4,38,Pro-Performer
-CB#36-22,swalihsalu9911@gmail.com,Swalih,"tools,persona,user journey,prototype(design thinking),laws",11,9,7,4,5,36,Active Learner
-CB#36-23,yadudq11@gmail.com,Yadhu,"user journey,prototype(design thinking),Laws",12,10,7,4,5,38,Pro-Performer
+CB#36-01,mohdajmal9544@gmail.com,Ajmal,"Core idea of pandas, DataFrame,  Accesing Columns(Not by loc/iloc),Reading",9,4,6,4,5,28,Active Learner
+CB#36-02,sahalasherincp@gmail.com,Shahala,"Data Analysis, pandas,  DataFrame & Dictionary, describe, Drop,Reading",9,8,7,4,5,33,Active Learner
+CB#36-03,rizzaah820@gmail.com,Riza,"Data Frame, Accessing Columns(Not by loc/iloc)),Reading",13,13,7,4,5,42,Pro-Performer
+CB#36-04,misriyap16@gmail.com,Misriya,"DataFrame & Dictionary, slicing in loc/iloc,Reading ",13,7,8,4,5,37,Active Learner
+CB#36-05,Rinshashirin44@gmail.com,Rinsha,Leave,,,,,,0,Beginner
+CB#36-06,shahabascmr123@gmail.com,Shahabas,"Pandas, DataFrame, df_info,Accessng columns(Not by loc/iloc), describe, value_counts(),Reading",6,4,7,4,5,26,Active Learner
+CB#36-07,abhishekha4002@gmail.com,Abhisheka,Leave,,,,,,0,Beginner
+CB#36-08,rishangt11@gmail.com,Rishan,"Data Analysis, Pandas, Data Frame & Data Structure, Dropna, drop,describe, Reading",6,4,6,4,4,24,Beginner
+CB#36-09,nandanakm761@gmail.com,Nandana,"pandas, Data Frame, df_info, describe, loc/iloc,reading, drop concepts",6,4,6,4,5,25,Beginner
+CB#36-10,sruthysruthy2701@gmail.com,Sruthi,"pandas, Data Frame & Dictionary, df_info, drop, dropna, loc/iloc,Reading",6,6,6,4,5,27,Active Learner
+CB#36-12,nandanananda0o0@gmail.com,Nandana cs,"Data Analysis, Dataframe & Dictionary, df_info(), describe, loc/iloc,reading",8,8,6,4,5,31,Active Learner
+CB#36-13,vincykc@gmail.com,Vincy,"Data Analysis, describe, dropna, drop",12,12,9,4,5,42,Pro-Performer
